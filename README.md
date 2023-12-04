@@ -20,13 +20,3 @@ I started pushing pixels around the screen back in 2000. Since then I've been li
 ![image](https://user-images.githubusercontent.com/3492898/187853324-1eadc720-e479-4abf-955c-5087cf141e38.png)
 ![image](https://user-images.githubusercontent.com/3492898/187852963-9c186ed1-59f6-44a3-b28d-9222e424ddfc.png)
 ![image](https://user-images.githubusercontent.com/3492898/187853000-dd056ae2-4271-44a4-bfeb-8c1b325b2ef5.png)
-
-## 🔭 What am I working on?
-[Coinflip Lab: End-to-end Algorithmic Trading using Machine Learning](https://github.com/patrickstolc/coinflip-lab)\
-[Coinflip Data: Starter data repository for Algorithmic Trading](https://github.com/patrickstolc/coinflip-data)
-
-### 📫 How to reach me?
-[LinkedIn](https://www.linkedin.com/in/patrickstolc/)
-
-### ⚡ One line that describes me best?
-An ambitious person who loves cooking, the outdoors and creating through code 😉
